@@ -178,4 +178,5 @@ logout.addEventListener('click', () => {
   userInfo.style.display = 'none'
   loginOn.style.display = 'block'
   logout.style.display = 'none'
+  alert("로그아웃 되었습니다.")
 })
